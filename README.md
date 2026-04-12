@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Wei-Cheng
 
-<!--
-**seanlaii/seanlaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a software engineer and open-source contributor focusing on Cloud Native architecture, and AI infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Open Source Contributions
+
+I am deeply passionate about building and maintaining projects within the cloud-native ecosystem:
+
+* 🚢 **Karmada Maintainer**
+    * 📌 **My Contributions:** [View my Karmada contributions here](https://github.com/karmada-io/karmada/pulls?q=author%3Aseanlaii+)
+
+* 🌟 **KubeRay Contributor**
+    * 📌 **My Contributions:** [View my KubeRay contributions here](https://github.com/ray-project/kuberay/pulls?q=author%3Aseanlaii+)
+
+---
+## 📫 Let's Connect
+
+* **LinkedIn:** [https://www.linkedin.com/in/lai-wei-cheng/](https://www.linkedin.com/in/lai-wei-cheng/)
+* **Email:** [wlai71294@example.com](wlai71294@example.com)
