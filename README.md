@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wei-Cheng
 
-Welcome to my GitHub! I am a software engineer and open-source contributor focusing on Cloud Native architecture, and AI infrastructure.
+Welcome to my GitHub! I am a software engineer and open-source contributor focusing on Cloud Native ecosystem, and AI infrastructure.
 
 ---
 
