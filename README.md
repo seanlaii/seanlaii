@@ -18,4 +18,4 @@ I am deeply passionate about building and maintaining projects within the cloud-
 ## 📫 Let's Connect
 
 * **LinkedIn:** [https://www.linkedin.com/in/lai-wei-cheng/](https://www.linkedin.com/in/lai-wei-cheng/)
-* **Email:** [wlai71294@example.com](wlai71294@example.com)
+* **Email:** [wlai71294@gmail.com](wlai71294@gmail.com)
